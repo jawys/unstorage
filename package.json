@@ -71,7 +71,7 @@
     "typescript": "latest",
     "unbuild": "latest",
     "vite": "latest",
-    "vitest": "^0.13.0",
+    "vitest": "^0.13.1",
     "vue": "^3.2.36"
   },
   "packageManager": "pnpm@7.1.7"
